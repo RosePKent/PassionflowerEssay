@@ -49,46 +49,47 @@ Since Linnaeus’ classification, the known diversity of passionflowers has grow
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin *plexus*, means interwoven, entangled, involved, intricate, plaited.
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/1/1b/MJ_Heade_Passion_Flowers_and_Hummingbirds.jpg"
-       caption="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885)"
+       label="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885)"
        description="Image source: Wikimedia Commons"
 	   license="CC0"
        fit="contain">
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
 <param ve-image
-	   url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
-       caption="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
+	url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
+       label="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
        fit="contain">
 	
 Yet passionflowers are not as immobile and defenseless as they might appear to human eyes and senses of time. The shapes of passionflower leaves, for instance, are some of the most malleable and diverse among plants: in some cases, their leaves can vary and mutate along a single vine, mimicking nonhost plants and discouraging butterflies from laying eggs on them.[^43] The deceit does not stop here: many passionflowers have structures on their leaves, such as little nubs or yellow spots, that mimic the appearance and arrangement of butterfly eggs and so deter longwings from laying eggs on leaves that appear to be occupied. Some even display structures that mimic the eggs of the longwing’s predators. In addition, nectar-producing glands on the leaves can be utilized to attract ants and wasps, which in turn attack the longwing caterpillars.[^44]
-<param ve-image 
+**#DEPOSITORY IMAGE** <param ve-image 
 	   url=""
-       caption=""*Granadilla*" from Joannis Martyn’s *Historia plantarum rariorum *(1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
+       caption="*Granadilla* from Joannis Martyn’s *Historia plantarum rariorum* (1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
        description="Image source: Wikimedia Commons"
 	   license=""
        fit="cover">
 	   
-<param ve-image 
+**#DEPOSITORY IMAGE** <param ve-image 
 	   src=""
-       caption="*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem mimic butterfly eggs."
+       caption="*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs."
        description="Image source: Wikimedia Commons"
 	   license=""
        fit="cover">
 
 Bees have a far less complicated relationship with passionflowers. As Francis Channing Woodworth describes in her book *Wonders of the Insect World* (1853), "the nectar in the passion flower has an intoxicating effect" upon bees: "they now and then indulge in excessive drinking […] one may see half a dozen of these poor creatures lying on the ground, near the goblet which has so grossly intoxicated them, and entirely unable to stir an inch." [^45] This sprawling scene of inebriated bees places the passionflower not with notions of divine sacrifice and purity, but with indulgence, pleasure, and excess.
 <param ve-image
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Passiflora_foetida_flower_with_bee.jpg/640px-Passiflora_foetida_flower_with_bee.jpg"
-       caption="*Passiflora foetida* with a bee"
+	   url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Passiflora_foetida_flower_with_bee.jpg/640px-Passiflora_foetida_flower_with_bee.jpg"
+       label="*Passiflora foetida* with a bee"
        description="Image source: Wikimedia Commons"
+	   license="CC-BY-SA-4.0"
        fit="contain">
 
 ### Passionflowers Under Cultivation 
 
 Passionflowers have seduced bees and gardeners alike: the vigorous climbers have been adopted into cultivation in European gardens as striking, curious, and strange representations of South America’s tropical forests. The allure of the passionflower to the gardener is represented in Asa B. Strong’s *American Flora* (1846–1850), where the plant is described as "the produce of South America and the West Indies, where the dense forests are filled with their numerous species, climbing over shrubs and trees, and bearing flowers of the most curious form of striking beauty."[^46] The artificial cultivation of these rainforests was achieved under glass in hothouses, or stoves, which were essentially heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of exotic climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass recreated the heat and humidity of tropical forests in lavish microcosm.
 <param ve-image 
-	   src=""
+	   url=""
        caption="*The Blue Passion-flower *climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Contrast this with Heade’s depictions of the flower. Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World are moved into a Classical setting"
        description="Image source: Wikimedia Commons"
        fit="contain">
