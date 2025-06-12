@@ -44,7 +44,7 @@ Since Linnaeus’ classification, the known diversity of passionflowers has grow
        label="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899)."
        description="Image source: Wikimedia Commons"
 	   license="CC0"
-       fit="cover">
+       region="0,82,1600,1085">
 
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin *plexus*, means interwoven, entangled, involved, intricate, plaited.
 <param ve-image 
@@ -52,7 +52,7 @@ In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin John
        label="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885)"
        description="Image source: Wikimedia Commons"
 	   license="CC0"
-       fit="contain">
+       region="268,224,1836,1245">
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
 <param ve-image
@@ -60,7 +60,7 @@ Passionflower vines form a crucial part of the co-evolutionary enmeshments of th
        label="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
-       fit="contain">
+       region="253,255,2010,1324">
 	
 Yet passionflowers are not as immobile and defenseless as they might appear to human eyes and senses of time. The shapes of passionflower leaves, for instance, are some of the most malleable and diverse among plants: in some cases, their leaves can vary and mutate along a single vine, mimicking nonhost plants and discouraging butterflies from laying eggs on them.[^43] The deceit does not stop here: many passionflowers have structures on their leaves, such as little nubs or yellow spots, that mimic the appearance and arrangement of butterfly eggs and so deter longwings from laying eggs on leaves that appear to be occupied. Some even display structures that mimic the eggs of the longwing’s predators. In addition, nectar-producing glands on the leaves can be utilized to attract ants and wasps, which in turn attack the longwing caterpillars.[^44]
 **#DEPOSITORY IMAGE** <param ve-image 
@@ -80,7 +80,7 @@ Yet passionflowers are not as immobile and defenseless as they might appear to h
 Bees have a far less complicated relationship with passionflowers. As Francis Channing Woodworth describes in her book *Wonders of the Insect World* (1853), "the nectar in the passion flower has an intoxicating effect" upon bees: "they now and then indulge in excessive drinking […] one may see half a dozen of these poor creatures lying on the ground, near the goblet which has so grossly intoxicated them, and entirely unable to stir an inch." [^45] This sprawling scene of inebriated bees places the passionflower not with notions of divine sacrifice and purity, but with indulgence, pleasure, and excess.
 <param ve-image
 	   url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Passiflora_foetida_flower_with_bee.jpg/640px-Passiflora_foetida_flower_with_bee.jpg"
-       label="*Passiflora foetida* with a bee"
+       label="Photo of *Passiflora foetida* with a bee indulging in 'excessive drinking.'"
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
        fit="contain">
