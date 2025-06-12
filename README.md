@@ -23,7 +23,6 @@ With its new Christian symbolism, the American flower assimilated into the visua
        fit="contain">
 
 It is likely that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described that a "black background was painted around the carnation, [and] the passionflower was painted right on top of the black." [^16] The painted passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its layers of added paint, Christian narratives that were read into the natural world accumulate in the painting. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower, native to South America, represents the symbolic potency of the passionflower before its mysterious and exoticized existence was supplanted by real flowers brought into European gardens. 
-**#Is there a way to zoom in on the passionflower/carnation for this image?**
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
        label="Joos van Cleve’s *Madonna and Child* (1530-35)."
@@ -35,16 +34,30 @@ It is likely that the passionflower was added to the painting by a different art
 
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
 <param ve-image 
-	   src=""
-       caption=""
+	   url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Passiflora_misera_Bot._Reg._7._597._1821.jpg"
+       caption="*Passiflora vespertilio* or, the "bat-winged" passionflower, from the *Botanical Register* (1821)."
        description="Image source: Wikimedia Commons"
-       fit="contain">
+	   license="CC0"
+       fit="cover">
+<param ve-image 
+	   url="https://upload.wikimedia.org/wikipedia/commons/0/00/Passiflora_actinia_flower_12.jpg"
+       caption="Photo of *Passiflora actinia* or, the "sea-anemone" passionflower."
+       description="Image source: Wikimedia Commons"
+	   license="CC-BY-SA-4.0"
+       fit="cover">
+<param ve-image 
+	url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
+       caption="Illustration of sea anemones ("Actiniae") from Ernst Haeckel's Kunstformen der Natur (1899)."
+       description="Image source: Wikimedia Commons"
+	   license="CC0"
+       fit="cover">
 
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin plexus, means interwoven, entangled, involved, intricate, plaited.
 <param ve-image 
 	   src=""
        caption="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885)"
        description="Image source: Wikimedia Commons"
+	   license=""
        fit="contain">
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
@@ -52,20 +65,23 @@ Passionflower vines form a crucial part of the co-evolutionary enmeshments of th
 	   src=""
        caption="Illustration of a zebra longwing butterfly"
        description="Image source: Wikimedia Commons"
+	   license=""
        fit="contain">
 	
 Yet passionflowers are not as immobile and defenseless as they might appear to human eyes and senses of time. The shapes of passionflower leaves, for instance, are some of the most malleable and diverse among plants: in some cases, their leaves can vary and mutate along a single vine, mimicking nonhost plants and discouraging butterflies from laying eggs on them.[^43] The deceit does not stop here: many passionflowers have structures on their leaves, such as little nubs or yellow spots, that mimic the appearance and arrangement of butterfly eggs and so deter longwings from laying eggs on leaves that appear to be occupied. Some even display structures that mimic the eggs of the longwing’s predators. In addition, nectar-producing glands on the leaves can be utilized to attract ants and wasps, which in turn attack the longwing caterpillars.[^44]
 <param ve-image 
-	   src=""*Granadilla*" from Joannis Martyn’s *Historia plantarum rariorum *(1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
-       caption=""
+	   url=""
+       caption=""*Granadilla*" from Joannis Martyn’s *Historia plantarum rariorum *(1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
        description="Image source: Wikimedia Commons"
-       fit="contain">
+	   license=""
+       fit="cover">
 	   
 <param ve-image 
 	   src=""
        caption="*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem mimic butterfly eggs."
        description="Image source: Wikimedia Commons"
-       fit="contain">
+	   license=""
+       fit="cover">
 
 Bees have a far less complicated relationship with passionflowers. As Francis Channing Woodworth describes in her book *Wonders of the Insect World* (1853), "the nectar in the passion flower has an intoxicating effect" upon bees: "they now and then indulge in excessive drinking […] one may see half a dozen of these poor creatures lying on the ground, near the goblet which has so grossly intoxicated them, and entirely unable to stir an inch." [^45] This sprawling scene of inebriated bees places the passionflower not with notions of divine sacrifice and purity, but with indulgence, pleasure, and excess.
 <param ve-image
