@@ -40,7 +40,7 @@ Since Linnaeus’ classification, the known diversity of passionflowers has grow
 	   license="CC-BY-SA-4.0"
        fit="cover">
 <param ve-image 
-	url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
+	   url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
        label="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899)."
        description="Image source: Wikimedia Commons"
 	   license="CC0"
@@ -55,8 +55,8 @@ In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin John
        fit="contain">
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
-<param ve-image 
-	   src=""
+<param ve-image
+	   url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
        caption="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
