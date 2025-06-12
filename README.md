@@ -16,21 +16,24 @@ With its new Christian symbolism, the American flower assimilated into the visua
 
 
 <param ve-image 
-       src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
-       caption="Joos van Cleve’s *Madonna and Child* (1530-35)."
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
+       label="Joos van Cleve’s *Madonna and Child* (1530-35)."
        description="Image source: Wikimedia Commons"
+	   license="CC0"
        fit="contain">
 
 It is likely that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described that a "black background was painted around the carnation, [and] the passionflower was painted right on top of the black." [^16] The painted passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its layers of added paint, Christian narratives that were read into the natural world accumulate in the painting. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower, native to South America, represents the symbolic potency of the passionflower before its mysterious and exoticized existence was supplanted by real flowers brought into European gardens. 
+**#Is there a way to zoom in on the passionflower/carnation for this image?**
 <param ve-image 
-	   src=""
-       caption="The passionflower and carnation, in Joos van Cleve’s *Madonna and Child* (1530-35)."
+	   url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
+       label="Joos van Cleve’s *Madonna and Child* (1530-35)."
        description="Image source: Wikimedia Commons"
-       fit="contain">
+	   license="CC0"
+       region=""> 
 
 ### The Diversity of Passionflowers
 
-Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespetilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
+Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
 <param ve-image 
 	   src=""
        caption=""
@@ -113,14 +116,14 @@ The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the I
 
 
 [^13]: Abrams, Michael E. "Passion flower in famous Madonna painting was added after artist died, art museum agrees" Van Cleve Madonna was altered. 2009. https://www.flwildflowers.com/vancleve/.
-[^14]: Gordon, Lesley. Green Magic (New York: The Viking Press, 1977).
-[^15]: Joos van Cleve died in 1540–1541, decades before the passionflower entered European discourse
+[^14]: Gordon, Lesley. *Green Magic* (New York: The Viking Press, 1977).
+[^15]: Joos van Cleve died in 1540–1541, decades before the passionflower entered European discourse.
 [^16]:  Abrams, Michael E. "Passion flower in famous Madonna painting was added after artist died, art museum agrees" Van Cleve Madonna was altered. 2009. https://www.flwildflowers.com/vancleve/.
 
 [^41]: Sazima, Marlies and Sazima, Ivan. "Bat pollination of the passion flower, Passiflora mucronata, in Southeastern Brazil. *Biotropica*," Biotropica 10, no. 2 (1978): 100–109. https://doi.org/10.2307/2388012.
 [^42]: Strong, Asa B., D. W. Moody, and F. & S. Palmer. *The American Flora: Or History of Plants and Wild Flowers : Containing Their Scientific and General Description, Natural History, Chemical and Medical Properties, Mode of Culture, Propagation, &c., Designed as a Book of Reference for Botanists, Physicians, Florists, Gardeners, Students, Etc*. Vol. 4. (New York: Hull & Spencer, 1855), 137. https://www.biodiversitylibrary.org/page/48158146.
 [^43]: Chitwood, D.H.and Otoni, W.C. "Morphometric analysis of Passiflora leaves: the relationship between landmarks of the vasculature and elliptical Fourier descriptors of the blade," *Gigascience* 6, no. 1 (2017): 1–13. https://doi.org/10.1093/gigascience/giw008.
-[^44]: "Butterflies," Passiflora Online. https://www.passionflow.co.uk/butterflies/.
+[^44]: "Butterflies," *Passiflora Online*. https://www.passionflow.co.uk/butterflies/.
 [^45]: Woodworth, Frances Channing. *Wonders of the Insect World.* (New York: D.A. Wordworth,1853), 193.
 [^46]: Strong, Asa B., D. W. Moody, and F. & S. Palmer. *The American Flora.* https://www.biodiversitylibrary.org/page/48158146.
 [^47]: *The Annals of Horticulture and Year-Book of Information on Practical Gardening.* (London: Houlston and Stoneman, 1849), 23. https://www.biodiversitylibrary.org/page/50187370.
