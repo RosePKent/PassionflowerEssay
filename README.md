@@ -39,7 +39,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
 	   label="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902)"
 	   description="Image source: Wikimedia Commons"
 	   license="CC0"
-       fit="cover">
+       region="0,388,788,534">
 	   
 <param ve-image 	
 	   url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
