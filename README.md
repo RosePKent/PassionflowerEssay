@@ -42,7 +42,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
        fit="cover">
 	   
 <param ve-image 	
-	url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
+	   url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
        label="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899)."
        description="Image source: Wikimedia Commons"
 	   license="CC0"
