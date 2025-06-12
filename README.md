@@ -124,7 +124,7 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
 url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281891%29_%2814593557718%29.jpg" 
 	   label= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.'"
 	   description= "Image source: Wikimedia Commons"
-	   fit="contain">
+	   region="843,15,1081,714">
 
 
 
