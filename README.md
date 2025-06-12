@@ -25,7 +25,7 @@ With its new Christian symbolism, the American flower assimilated into the visua
 It is likely that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described that a "black background was painted around the carnation, [and] the passionflower was painted right on top of the black." [^16] The painted passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its layers of added paint, Christian narratives that were read into the natural world accumulate in the painting. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower, native to South America, represents the symbolic potency of the passionflower before its mysterious and exoticized existence was supplanted by real flowers brought into European gardens. 
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
-       label="Joos van Cleve’s *Madonna and Child* (1530-35)."
+       label= "Joos van Cleve’s *Madonna and Child *(1530-35)."
        description="Image source: Wikimedia Commons"
 	   license="CC0"
        region="1,666,664,450"> 
@@ -54,10 +54,10 @@ Since Linnaeus’ classification, the known diversity of passionflowers has grow
 
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin plexus, means interwoven, entangled, involved, intricate, plaited.
 <param ve-image 
-	   src=""
+	   url="https://upload.wikimedia.org/wikipedia/commons/1/1b/MJ_Heade_Passion_Flowers_and_Hummingbirds.jpg"
        caption="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885)"
        description="Image source: Wikimedia Commons"
-	   license=""
+	   license="CC0"
        fit="contain">
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
