@@ -33,8 +33,8 @@ It is likely that the passionflower was added to the painting by a different art
 ### The Diversity of Passionflowers
 
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
+
 <param ve-image 
-	  
 url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
 	   label="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902)"
 	   description="Image source: Wikimedia Commons"
@@ -49,7 +49,6 @@ url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
        region="0,82,1600,1085">
 
 <param ve-image 
-
 url="https://upload.wikimedia.org/wikipedia/commons/0/00/Passiflora_actinia_flower_12.jpg"
        label="Photo of *Passiflora actinia* or, the sea-anemone passionflower."
        description="Image source: Wikimedia Commons"
@@ -66,7 +65,7 @@ In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin John
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
        label="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
@@ -131,8 +130,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chroni
 
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, Passiflora x violacea, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
-<param ve-image 
-	   url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Passiflora_huamachucoensis%2C_Lagunas_Norte%2C_Santiago_de_Chuco%2C_Per%C3%BA_imported_from_iNaturalist_photo_200493367.jpg"
+<param ve-image    url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Passiflora_huamachucoensis%2C_Lagunas_Norte%2C_Santiago_de_Chuco%2C_Per%C3%BA_imported_from_iNaturalist_photo_200493367.jpg"
        label="Photo of *Passiflora* 'Sunburst'"
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
