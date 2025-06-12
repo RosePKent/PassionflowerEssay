@@ -35,19 +35,19 @@ It is likely that the passionflower was added to the painting by a different art
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Passiflora_misera_Bot._Reg._7._597._1821.jpg"
-       caption="*Passiflora vespertilio* or, the "bat-winged" passionflower, from the *Botanical Register* (1821)."
+       label="*Passiflora vespertilio* or, the "bat-winged" passionflower, from the *Botanical Register* (1821)."
        description="Image source: Wikimedia Commons"
 	   license="CC0"
        fit="cover">
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/0/00/Passiflora_actinia_flower_12.jpg"
-       caption="Photo of *Passiflora actinia* or, the "sea-anemone" passionflower."
+       label="Photo of *Passiflora actinia* or, the "sea-anemone" passionflower."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
        fit="cover">
 <param ve-image 
 	url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
-       caption="Illustration of sea anemones ("Actiniae") from Ernst Haeckel's Kunstformen der Natur (1899)."
+       label="Illustration of sea anemones ("Actiniae") from Ernst Haeckel's Kunstformen der Natur (1899)."
        description="Image source: Wikimedia Commons"
 	   license="CC0"
        fit="cover">
