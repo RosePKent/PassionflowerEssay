@@ -66,14 +66,14 @@ Yet passionflowers are not as immobile and defenseless as they might appear to h
 **#DEPOSITORY IMAGE** <param ve-image 
 	   url=""
        caption="*Granadilla* from Joannis Martyn’s *Historia plantarum rariorum* (1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
-       description="Image source: Wikimedia Commons"
+       description="Dumbarton Oaks/Oak Spring"
 	   license=""
        fit="cover">
 	   
 **#DEPOSITORY IMAGE** <param ve-image 
 	   src=""
        caption="*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs."
-       description="Image source: Wikimedia Commons"
+       description="Dumbarton Oaks"
 	   license=""
        fit="cover">
 
@@ -88,15 +88,15 @@ Bees have a far less complicated relationship with passionflowers. As Francis Ch
 ### Passionflowers Under Cultivation 
 
 Passionflowers have seduced bees and gardeners alike: the vigorous climbers have been adopted into cultivation in European gardens as striking, curious, and strange representations of South America’s tropical forests. The allure of the passionflower to the gardener is represented in Asa B. Strong’s *American Flora* (1846–1850), where the plant is described as "the produce of South America and the West Indies, where the dense forests are filled with their numerous species, climbing over shrubs and trees, and bearing flowers of the most curious form of striking beauty."[^46] The artificial cultivation of these rainforests was achieved under glass in hothouses, or stoves, which were essentially heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of exotic climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass recreated the heat and humidity of tropical forests in lavish microcosm.
-<param ve-image 
+**#DEPOSITORY IMAGE**<param ve-image 
 	   url=""
        caption="*The Blue Passion-flower *climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Contrast this with Heade’s depictions of the flower. Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World are moved into a Classical setting"
-       description="Image source: Wikimedia Commons"
+       description="Dumbarton Oaks"
        fit="contain">
-<param ve-image 
+**#BHL LINK** <param ve-image 
 	   src=""
        caption="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873)"
-       description="Image source: Wikimedia Commons"
+       description="BHL"
        fit="contain">
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, Passiflora x violacea, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
@@ -112,17 +112,17 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
        fit="contain">
 	   
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
-<param ve-image 
+**#DEPOSITORY IMAGE**<param ve-image 
 	   src=""
        caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)"
-       description="Image source: Wikimedia Commons"
+       description="Dumbarton Oaks"
        fit="contain">
 
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
-<param ve-image 
+**#DEPOSITORY IMAGE**<param ve-image 
 	   src=""
        caption="From Mary Lawrance’s *A Collection of Passionflowers* (1799)"
-       description="Image source: Wikimedia Commons"
+       description="Dumbarton Oaks"
        fit="contain">
 
 
