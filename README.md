@@ -103,7 +103,13 @@ Passionflowers have seduced bees and gardeners alike: the vigorous climbers have
        caption="*The Blue Passion-flower *climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Contrast this with Heade’s depictions of the flower. Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World are moved into a Classical setting"
        description="Dumbarton Oaks"
        fit="contain">
-
+	   
+<param ve-image
+	   url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281891%29_%2814593557718%29.jpg" 
+	   label= "A advertisement from the Gardener's Chronicle (1880s) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.'"
+	   description= "Image source: Wikimedia Commons"
+	   fit="contain">
+	   
 <param ve-image 
 	   url="https://www.biodiversitylibrary.org/pageImage/19076590"
        label="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873)"
@@ -116,12 +122,20 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
        label="Photo of *Passiflora* 'Sunburst'"
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
-       fit="contain">
+       fit="cover">
 <param ve-image 
-	   src=""
-       caption="*Passiflora incarnata*"
+	   url="https://upload.wikimedia.org/wikipedia/commons/3/38/Passiflora_%27Kew_Gardens%27.jpg"
+       caption="Photo of *Passiflora* 'Kew Gardens' (*Passiflora x kewensis*)"
        description="Image source: Wikimedia Commons"
-       fit="contain">
+	   license="CC-BY-2.0"
+       fit="cover">
+<param ve-image 
+	   url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Passiflora_%27Lady_Margaret%27.jpg"
+       caption="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*)"
+       description="Image source: Wikimedia Commons"
+	   license="CC-BY-SA-3.0"
+       fit="cover">
+
 	   
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
 **#DEPOSITORY IMAGE**<param ve-image 
