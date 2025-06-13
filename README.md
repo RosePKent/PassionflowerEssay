@@ -113,7 +113,8 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
 	   region="843,15,1081,714">
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, Passiflora x violacea, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
-<param ve-image    url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Passiflora_huamachucoensis%2C_Lagunas_Norte%2C_Santiago_de_Chuco%2C_Per%C3%BA_imported_from_iNaturalist_photo_200493367.jpg"
+<param ve-image    
+       url="https://upload.wikimedia.org/wikipedia/commons/0/09/Passiflora_Sunburst_0zz.jpg"
        label="Photo of *Passiflora* 'Sunburst'"
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
