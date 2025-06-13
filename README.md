@@ -53,7 +53,7 @@ Since Linnaeus’ classification, the known diversity of passionflowers has grow
        label="Photo of *Passiflora actinia* or, the sea-anemone passionflower."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
-       fit="cover">
+       fit="contain">
 
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin *plexus*, means interwoven, entangled, involved, intricate, plaited.
 <param ve-image 
