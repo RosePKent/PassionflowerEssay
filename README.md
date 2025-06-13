@@ -91,7 +91,7 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
 	   
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Gardeners%27_Chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281895%29_%2814579763069%29.jpg"
-       label="Photo of climbing plants in the conservatory at Falkland Park, from the *Gardener's Chronicle* (1895)."
+       label="Illustration of climbing plants in the conservatory at Falkland Park, from the *Gardener's Chronicle* (1895)."
        description="Image source: Wikimedia Common"
        fit="cover">
 <param ve-image 
