@@ -121,18 +121,17 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
        fit="contain">
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/3/38/Passiflora_%27Kew_Gardens%27.jpg"
-       caption="Photo of *Passiflora* 'Kew Gardens' (*Passiflora x kewensis*)"
+       label="Photo of *Passiflora* 'Kew Gardens' (*Passiflora x kewensis*)"
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-2.0"
        fit="contain">
 <param ve-image 
 	   url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Passiflora_%27Lady_Margaret%27.jpg"
-       caption="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*)"
+       label="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*)"
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-3.0"
        fit="contain">
 
-	   
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
 **INSERT **REPOSITORY IMAGE: *Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)"
       
