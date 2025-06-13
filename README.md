@@ -158,6 +158,7 @@ In the multiplication of passionflower species under the heat of the hothouse, t
 
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
 
+![alt text](https://github.com/[RosePKent]/[PassionflowerEssay]/blob/[main]/Passiflora subpeltata_herb.tiff?raw=true)
 
 
 [^13]: Abrams, Michael E. "Passion flower in famous Madonna painting was added after artist died, art museum agrees" Van Cleve Madonna was altered. 2009. https://www.flwildflowers.com/vancleve/.
