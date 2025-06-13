@@ -35,7 +35,7 @@ It is likely that the passionflower was added to the painting by a different art
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
 
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
 	   label="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902)"
 	   description="Image source: Wikimedia Commons"
 	   license="CC0"
@@ -49,7 +49,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
        region="0,82,1600,1085">
 
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/0/00/Passiflora_actinia_flower_12.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/00/Passiflora_actinia_flower_12.jpg"
        label="Photo of *Passiflora actinia* or, the sea-anemone passionflower."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
@@ -65,26 +65,18 @@ In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin John
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
+    url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
        label="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
        description="Image source: Wikimedia Commons"
 	   license="CC-BY-SA-4.0"
        region="253,255,2010,1324">
 	
 Yet passionflowers are not as immobile and defenseless as they might appear to human eyes and senses of time. The shapes of passionflower leaves, for instance, are some of the most malleable and diverse among plants: in some cases, their leaves can vary and mutate along a single vine, mimicking nonhost plants and discouraging butterflies from laying eggs on them.[^43] The deceit does not stop here: many passionflowers have structures on their leaves, such as little nubs or yellow spots, that mimic the appearance and arrangement of butterfly eggs and so deter longwings from laying eggs on leaves that appear to be occupied. Some even display structures that mimic the eggs of the longwing’s predators. In addition, nectar-producing glands on the leaves can be utilized to attract ants and wasps, which in turn attack the longwing caterpillars.[^44]
-**#DEPOSITORY IMAGE** <param ve-image 
-	   url=""
-       caption="*Granadilla* from Joannis Martyn’s *Historia plantarum rariorum* (1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
-       description="Dumbarton Oaks/Oak Spring"
-	   license=""
-       fit="cover">
+**INSERT **REPOSITORY IMAGE:"*Granadilla* from Joannis Martyn’s *Historia plantarum rariorum* (1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
+   
 	   
-**#DEPOSITORY IMAGE** <param ve-image 
-	   src=""
-       caption="*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs."
-       description="Dumbarton Oaks"
-	   license=""
-       fit="cover">
+**INSERT **REPOSITORY IMAGE:*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs."
+      
 
 Bees have a far less complicated relationship with passionflowers. As Francis Channing Woodworth describes in her book *Wonders of the Insect World* (1853), "the nectar in the passion flower has an intoxicating effect" upon bees: "they now and then indulge in excessive drinking […] one may see half a dozen of these poor creatures lying on the ground, near the goblet which has so grossly intoxicated them, and entirely unable to stir an inch." [^45] This sprawling scene of inebriated bees places the passionflower not with notions of divine sacrifice and purity, but with indulgence, pleasure, and excess.
 <param ve-image
@@ -97,11 +89,8 @@ Bees have a far less complicated relationship with passionflowers. As Francis Ch
 ### Passionflowers Under Cultivation 
 
 Passionflowers have seduced bees and gardeners alike: the vigorous climbers have been adopted into cultivation in European gardens as striking, curious, and strange representations of South America’s tropical forests. The allure of the passionflower to the gardener is represented in Asa B. Strong’s *American Flora* (1846–1850), where the plant is described as "the produce of South America and the West Indies, where the dense forests are filled with their numerous species, climbing over shrubs and trees, and bearing flowers of the most curious form of striking beauty."[^46] 
-**#DEPOSITORY IMAGE**<param ve-image 
-	   url=""
-       caption="*The Blue Passion-flower *climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Contrast this with Heade’s depictions of the flower. Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World are moved into a Classical setting"
-       description="Dumbarton Oaks"
-       fit="contain">
+**INSERT **REPOSITORY IMAGE: "*The Blue Passion-flower *climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Contrast this with Heade’s depictions of the flower. Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World are moved into a Classical setting"
+      
 
 The artificial cultivation of these far-away rainforests, and the lush exoticism they came to represent, was often achieved under glass in hothouses, or stoves, and heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of tropical climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass were intended to recreate the heat and humidity of tropical forests in lavish microcosm.
 	   
@@ -115,13 +104,15 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
        label="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873)"
        description="BHL"
        fit="cover">
+       
 <param ve-image 
 	   url="https://www.biodiversitylibrary.org/page/43864389"
        label="Page from *Vivk's Garden and Floral guide* (1900) depicting passionflowers as plants for the greenhouse."
        description="BHL"
        fit="cover">	   
+       
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281891%29_%2814593557718%29.jpg" 
+        url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281891%29_%2814593557718%29.jpg" 
 	   label= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.'"
 	   description= "Image source: Wikimedia Commons"
 	   region="843,15,1081,714">
@@ -150,15 +141,17 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
 
 	   
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
-**#DEPOSITORY IMAGE**<param ve-image 
-	   src=""
-       caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)"
-       description="Dumbarton Oaks"
-       fit="contain">
+**INSERT **REPOSITORY IMAGE: *Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)"
+      
 
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
 
-![alt text](https://github.com/[RosePKent]/[PassionflowerEssay]/blob/[main]/Passiflora subpeltata_herb.tiff?raw=true)
+**INSERT **REPOSITOTY IMAGE: Passiflora subpeltata_herb.tiff
+**INSERT **REPOSITORY IMAGE:
+**INSERT **REPOSITORY IMAGE:
+**INSERT **REPOSITORY IMAGE:
+**INSERT **REPOSITORY IMAGE:
+**INSERT **REPOSITORY IMAGE:
 
 
 [^13]: Abrams, Michael E. "Passion flower in famous Madonna painting was added after artist died, art museum agrees" Van Cleve Madonna was altered. 2009. https://www.flwildflowers.com/vancleve/.
