@@ -242,7 +242,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Philip_Reinagle_-_Blue_
 <param ve-image
         src="theodet/do/main/passionflower2025/P_caerulea.jpg"
 	caption="A pressed herbarium specimen of *Passiflora caerulea," or the Blue Passionflower. This specimen was collected in South America.">
-   
+ <p>
+  
 The artificial cultivation of these far-away rainforests, and the lush exoticism they came to represent, was often achieved under glass in hothouses, or stoves, and heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of tropical climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass were intended to recreate the heat and humidity of tropical forests in lavish microcosm.
         
 <param ve-image
@@ -267,6 +268,7 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
          label= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.'"
          description= "Image source: Wikimedia Commons"
          region="843,15,1081,714">
+<p>
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, *Passiflora* x *violacea*, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
 <param ve-image    
@@ -287,12 +289,14 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
        description="Image source: Wikimedia Commons"
          license="CC-BY-SA-3.0"
        fit="contain">
+<p>
 
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
       <param ve-image
                  src="theodet/do/main/passionflower2025/ML_alata.png"
 		 caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)">
-   		
+<p>
+ 		
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
 
 <param ve-image
@@ -307,6 +311,7 @@ The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the I
 <param ve-image
                  src="theodet/do/main/passionflower2025/Passiflora subpeltata_herb.jpg">
 
+<p>
 
 ### The Culinary Significance of Passionfruit 
 <p>
