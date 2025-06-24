@@ -94,8 +94,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Philip_Reinagle_-_Blue_
 <param ve-image
         src="theodet/do/main/passionflower2025/P_caerulea.jpg"
 	caption="A pressed herbarium specimen of *Passiflora caerulea," or the Blue Passionflower. This specimen was collected in South America.">
-
-     
+   
 The artificial cultivation of these far-away rainforests, and the lush exoticism they came to represent, was often achieved under glass in hothouses, or stoves, and heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of tropical climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass were intended to recreate the heat and humidity of tropical forests in lavish microcosm.
         
 <param ve-image
@@ -146,7 +145,6 @@ In the multiplication of passionflower species under the heat of the hothouse, t
                  src="theodet/do/main/passionflower2025/ML_alata.png"
 		 caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)">
    		
-
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
 
 <param ve-image
@@ -159,7 +157,7 @@ The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the I
                  src="theodet/do/main/passionflower2025/Passiflora tripartita var. azuayensis_herb.jpg"
                  label="Herbarium specimen of *Passiflora tripartita* var. *azuayensis*">
 <param ve-image
-                 src="theodet/do/main/passionflower2025/Passiflora subpeltata_herb.jpg"
+                 src="theodet/do/main/passionflower2025/Passiflora subpeltata_herb.jpg">
 
 
 
